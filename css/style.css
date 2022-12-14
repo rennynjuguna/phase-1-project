@@ -1,17 +1,28 @@
-/* css stylesheet for books api PROJECT
-  author: Jorge L. jlvazquez
-  date: 2/24/2019
-*/
+:root {
+  --colorone: #03045e;
+  --colorTwo: #0077b6;
+  --colorThree: #00b4d8;
+  --colorFour: #90e0ef;
+  --colorFive: #caf0f8;
+  --colorSix: #ffffff;
+  --colorSeven: #111111;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
 
 body {
-  /* background-color: #76a9e0; */
-  background-image: url("../img/bg-book2.jpg");
-  background-color: #017199;
+  background-image: url("../img/bg-image.jpg");
+  background-color: var(--colorTwo);
   /* Full height */
   height: 100%;
-  /* Center and scale the image nicely */
+  /* Center and scaling the image */
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat repeat;
   background-size: cover;
 }
 

@@ -33,7 +33,7 @@ $(document).ready(function() {
             }
           },
           error: function () {
-            alert("Something went wrong.. <br>"+"Try again!");
+            alert("Something went wrong... <br>"+"Try again!");
           }
         });
       }
@@ -44,7 +44,7 @@ $(document).ready(function() {
     function to display result in index.html
    */
    function displayResults(response) {
-      for (var i = 0; i < response.items.length; i+=1) {
+      for (var i = 0; i < response.items.length; i++) {
         item = response.items[i];
         title1 = item.volumeInfo.title;
         author1 = item.volumeInfo.authors;
@@ -63,7 +63,7 @@ $(document).ready(function() {
         bookIsbn2 = item2.volumeInfo.industryIdentifiers[1].identifier
         bookImg2 = (item2.volumeInfo.imageLinks) ? item2.volumeInfo.imageLinks.thumbnail : placeHldr ;
 
-        // in production code, item.text should have the HTML entities escaped.
+        // output list to HTML
         outputList.innerHTML += '<div class="row mt-4">' +
                                 formatOutput(bookImg1, title1, author1, publisher1, publishedDate1, bookLink1, bookIsbn) +
                                 formatOutput(bookImg2, title2, author2, publisher2, publishedDate2, bookLink2, bookIsbn2) +
@@ -74,7 +74,7 @@ $(document).ready(function() {
    }
 
    /*
-   Card Element Obtained From JavaScript
+   Card Element Obtained From Bootstrap
    */
    function formatOutput(bookImg, title, author, publisher, publishedDate, bookIsbn) {
      // console.log(title + ""+ author +" "+ publisher +" "+ publishedDate+" "+ bookImg)
