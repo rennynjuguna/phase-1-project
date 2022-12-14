@@ -1,0 +1,754 @@
+[{
+  "kind": "books#volumes",
+  "totalItems": 521,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2mfDBAAAQBAJ",
+      "etag": "xnVHvxi4AXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2mfDBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Climate Change",
+        "subtitle": "A Very Short Introduction",
+        "authors": [
+          "Mark Maslin"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2014",
+        "description": "Previous editions published as: Global warming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198719045"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198719043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2mfDBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2mfDBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2mfDBAAAQBAJ&printsec=frontcover&dq=climate&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2mfDBAAAQBAJ&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate_Change.html?hl=&id=2mfDBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_Change-sample-pdf.acsm?id=2mfDBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2mfDBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Previous editions published as: Global warming."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qqJAtA4qeUkC",
+      "etag": "mJv+MycWZ+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qqJAtA4qeUkC",
+      "volumeInfo": {
+        "title": "Climate Change",
+        "subtitle": "A Reference Handbook",
+        "authors": [
+          "David Leonard Downie",
+          "Kate Brash",
+          "Catherine Vaughan"
+        ],
+        "publisher": "ABC-CLIO",
+        "publishedDate": "2009",
+        "description": "An accessible introduction to climate change that outlines key scientific, economic, and political issues, reviews how the global community has addressed the issue to date, and discusses the options being explored for further action. * Numerous primary source documents including excerpts from important early scientific articles on climate change, global climate treaties, the 2007 Intergovernmental Panel on Climate Change assessment reports, and statements from academics, businesses, religious groups, and more * A rich variety of graphics help readers understand current and expected impacts of climate change, as well as the latest data and ideas from the scientific community on the subject of global climate change",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781598841527"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1598841521"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qqJAtA4qeUkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qqJAtA4qeUkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qqJAtA4qeUkC&printsec=frontcover&dq=climate&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qqJAtA4qeUkC&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate_Change.html?hl=&id=qqJAtA4qeUkC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_Change-sample-epub.acsm?id=qqJAtA4qeUkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_Change-sample-pdf.acsm?id=qqJAtA4qeUkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qqJAtA4qeUkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An accessible introduction to climate change that outlines key scientific, economic, and political issues, reviews how the global community has addressed the issue to date, and discusses the options being explored for further action."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UW6BAQAAQBAJ",
+      "etag": "kIzgiI14jOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UW6BAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Mathematics and Climate",
+        "authors": [
+          "Hans Kaper",
+          "Hans Engler"
+        ],
+        "publisher": "SIAM",
+        "publishedDate": "2013-10-18",
+        "description": "Mathematics and Climate is a timely textbook aimed at students and researchers in mathematics and statistics who are interested in current issues of climate science, as well as at climate scientists who wish to become familiar with qualitative and quantitative methods of mathematics and statistics. The authors emphasize conceptual models that capture important aspects of Earth's climate system and present the mathematical and statistical techniques that can be applied to their analysis. Topics from climate science include the Earth?s energy balance, temperature distribution, ocean circulation patterns such as El Ni?o?Southern Oscillation, ice caps and glaciation periods, the carbon cycle, and the biological pump. Among the mathematical and statistical techniques presented in the text are dynamical systems and bifurcation theory, Fourier analysis, conservation laws, regression analysis, and extreme value theory. The following features make Mathematics and Climate a valuable teaching resource: issues of current interest in climate science and sustainability are used to introduce the student to the methods of mathematics and statistics; the mathematical sophistication increases as the book progresses and topics can thus be selected according to interest and level of knowledge; each chapter ends with a set of exercises that reinforce or enhance the material presented in the chapter and stimulate critical thinking and communication skills; and the book contains an extensive list of references to the literature, a glossary of terms for the nontechnical reader, and a detailed index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781611972603"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1611972604"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 303,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.228.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UW6BAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UW6BAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UW6BAQAAQBAJ&printsec=frontcover&dq=climate&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UW6BAQAAQBAJ&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mathematics_and_Climate.html?hl=&id=UW6BAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mathematics_and_Climate-sample-pdf.acsm?id=UW6BAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UW6BAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The following features make Mathematics and Climate a valuable teaching resource: issues of current interest in climate science and sustainability are used to introduce the student to the methods of mathematics and statistics; the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GwNtvwmROvEC",
+      "etag": "rQ7rWAQVmcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GwNtvwmROvEC",
+      "volumeInfo": {
+        "title": "Atmosphere, Weather, and Climate",
+        "authors": [
+          "Roger Graham Barry",
+          "Richard J. Chorley"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2010",
+        "description": "\"From clear explanations of basic physical and chemical principles of the atmosphere to descriptions of regional climates and their changes, this popular text presents a comprehensive coverage of global climatology.\"--Cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780415465694"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0415465699"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1298,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GwNtvwmROvEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GwNtvwmROvEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GwNtvwmROvEC&dq=climate&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GwNtvwmROvEC&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atmosphere_Weather_and_Climate.html?hl=&id=GwNtvwmROvEC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GwNtvwmROvEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;From clear explanations of basic physical and chemical principles of the atmosphere to descriptions of regional climates and their changes, this popular text presents a comprehensive coverage of global climatology.&quot;--Cover"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MsAhTKGa_eUC",
+      "etag": "21eQmcpneUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MsAhTKGa_eUC",
+      "volumeInfo": {
+        "title": "Dictionary of Global Climate Change",
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "1992-08-31",
+        "description": "Climate, climate change, climate fluctuations and climatic trends are only a few of the terms used today, in not only conferences, scientific symposia and workshops, but also parliaments and in discussions throughout society. climatologists these terms may be well known; to the vast majority of people, however, they are new, and they require definition and explanation. The World Meteorological Organization inherited an interest and involvement in the studies of climate and climate change from its predecessor, the International Meteorological Organization (IMO), which was established in 1873. By 1929 the had set up a Commission for Climatology to deal with matters related to climate studies. When, in 1950, the World Meteorological Organization assumed the mantle of the it retained the commission which, among other responsibilities, had already recognized the need for the definition and explanation of terms used in climatology. It must also be said that much of what we now know about climate derives from the scientific and technical programmes - ordinated by and now, to a much greater extent, by In 1979, the First World Climate Conference made an assessment of the status of knowledge of climate and climate variability, and recommended the establishment of a World Climate Programme.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780412039010"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "041203901X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MsAhTKGa_eUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MsAhTKGa_eUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MsAhTKGa_eUC&printsec=frontcover&dq=climate&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MsAhTKGa_eUC&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dictionary_of_Global_Climate_Change.html?hl=&id=MsAhTKGa_eUC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Dictionary_of_Global_Climate_Change-sample-pdf.acsm?id=MsAhTKGa_eUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MsAhTKGa_eUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Climate, climate change, climate fluctuations and climatic trends are only a few of the terms used today, in not only conferences, scientific symposia and workshops, but also parliaments and in discussions throughout society. climatologists ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "coOkCgAAQBAJ",
+      "etag": "UN9WA4UtWi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/coOkCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Climate Change and Social Movements",
+        "subtitle": "Civil Society and the Development of National Climate Change Policy",
+        "authors": [
+          "Eugene Nulman"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2016-04-29",
+        "description": "Climate Change and Social Movements is a riveting and thorough exploration of three important campaigns to influence climate change policy in the United Kingdom. The author delves deep into the campaigns and illuminates the way policymakers think about and respond to social movements.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137468796"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137468793"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=coOkCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=coOkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=coOkCgAAQBAJ&printsec=frontcover&dq=climate&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=coOkCgAAQBAJ&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate_Change_and_Social_Movements.html?hl=&id=coOkCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_Change_and_Social_Movements-sample-epub.acsm?id=coOkCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_Change_and_Social_Movements-sample-pdf.acsm?id=coOkCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=coOkCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Climate Change and Social Movements is a riveting and thorough exploration of three important campaigns to influence climate change policy in the United Kingdom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_zcb_GpH15wC",
+      "etag": "QX8yrDuYsso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_zcb_GpH15wC",
+      "volumeInfo": {
+        "title": "Climate",
+        "subtitle": "Causes and Effects of Climate Change",
+        "authors": [
+          "Dana Desonie"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2008",
+        "description": "Discusses the issue of global warming and what we can do to prevent its rise. This book addresses how people must use energy more efficiently, develop alternative energy sources, and lower emissions technologies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438105642"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438105649"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Climatic changes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_zcb_GpH15wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_zcb_GpH15wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_zcb_GpH15wC&printsec=frontcover&dq=climate&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_zcb_GpH15wC&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate.html?hl=&id=_zcb_GpH15wC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate-sample-epub.acsm?id=_zcb_GpH15wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate-sample-pdf.acsm?id=_zcb_GpH15wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_zcb_GpH15wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discusses the issue of global warming and what we can do to prevent its rise. This book addresses how people must use energy more efficiently, develop alternative energy sources, and lower emissions technologies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CS8-uzm3cvUC",
+      "etag": "bd5LwarQcVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CS8-uzm3cvUC",
+      "volumeInfo": {
+        "title": "Climate of Corruption",
+        "subtitle": "Politics and Power Behind the Global Warming Hoax",
+        "authors": [
+          "Larry Bell"
+        ],
+        "publisher": "Greenleaf Book Group",
+        "publishedDate": "2011",
+        "description": "Argues that special interest groups with specific agendas and politics have corrupted the climage change debate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608320837"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608320839"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 325,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CS8-uzm3cvUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CS8-uzm3cvUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CS8-uzm3cvUC&printsec=frontcover&dq=climate&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CS8-uzm3cvUC&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate_of_Corruption.html?hl=&id=CS8-uzm3cvUC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_of_Corruption-sample-epub.acsm?id=CS8-uzm3cvUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Climate_of_Corruption-sample-pdf.acsm?id=CS8-uzm3cvUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CS8-uzm3cvUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Argues that special interest groups with specific agendas and politics have corrupted the climage change debate."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6gi1PAAACAAJ",
+      "etag": "UjkzZKQPyUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6gi1PAAACAAJ",
+      "volumeInfo": {
+        "title": "Why We Disagree About Climate Change",
+        "subtitle": "Understanding Controversy, Inaction and Opportunity",
+        "authors": [
+          "Mike Hulme"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2009-04-30",
+        "description": "Climate change is not 'a problem' waiting for 'a solution'. It is an environmental, cultural and political phenomenon which is re-shaping the way we think about ourselves, our societies and humanity's place on Earth. Drawing upon twenty-five years of professional work as an international climate change scientist and public commentator, Mike Hulme provides a unique insider's account of the emergence of this phenomenon and the diverse ways in which it is understood. He uses different standpoints from science, economics, faith, psychology, communication, sociology, politics and development to explain why we disagree about climate change. In this way he shows that climate change, far from being simply an 'issue' or a 'threat', can act as a catalyst to revise our perception of our place in the world. Why We Disagree About Climate Change is an important contribution to the ongoing debate over climate change and its likely impact on our lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521727324"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521727327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6gi1PAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6gi1PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6gi1PAAACAAJ&dq=climate&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6gi1PAAACAAJ&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Disagree_About_Climate_Change.html?hl=&id=6gi1PAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6gi1PAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Why We Disagree About Climate Change is an important contribution to the ongoing debate over climate change and its likely impact on our lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Vr6DwAAQBAJ",
+      "etag": "DGbsxdB1w+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Vr6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Climate Courage",
+        "subtitle": "How Tackling Climate Change Can Build Community, Transform the Economy, and Bridge the Political Divide in America",
+        "authors": [
+          "Andreas Karelas"
+        ],
+        "publisher": "Beacon Press",
+        "publishedDate": "2020-09-29",
+        "description": "How Americans can take action in their own communities and unite across the political spectrum in pursuit of solutions to climate change. Andreas Karelas has a message we don’t often hear: we have all the tools we need to solve the climate crisis and doing so will improve our lives, our economy, and our society. But to engage people in the climate fight, we need stories that are empowering, inclusive, and solutions-oriented, not based in fear. Karelas digs into the latest data on the rapidly falling costs and increased efficiencies of clean energy technologies compared to fossil fuels, looks at the rate of job creation in the clean energy sector, and introduces the reader to the inspiring work of climate heroes on both sides of the aisle—from Republican mayors and governors to activists, from businesses to faith communities. Climate Courage shows us how we can move past our collective inaction on climate change and work together in our communities to create a more sustainable, just, clean energy–powered economy that works for everyone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780807084885"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0807084883"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Vr6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Vr6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2Vr6DwAAQBAJ&printsec=frontcover&dq=climate&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2Vr6DwAAQBAJ&dq=climate&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Climate_Courage.html?hl=&id=2Vr6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Vr6DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Karelas digs into the latest data on the rapidly falling costs and increased efficiencies of clean energy technologies compared to fossil fuels, looks at the rate of job creation in the clean energy sector, and introduces the reader to the ..."
+      }
+    }
+  ]
+}
+]

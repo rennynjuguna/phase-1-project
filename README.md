@@ -1,4 +1,2 @@
 # Book-Finder
-A book search app implementing Google Books API
-
-
+book search app implementing google book api and viewer
