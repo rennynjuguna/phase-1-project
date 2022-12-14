@@ -1,0 +1,46 @@
+:root {
+  --colorone: #03045e;
+  --colorTwo: #0077b6;
+  --colorThree: #00b4d8;
+  --colorFour: #90e0ef;
+  --colorFive: #caf0f8;
+  --colorSix: #ffffff;
+  --colorSeven: #111111;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-image: url("../img/bg-image.jpg");
+  background-color: var(--colorTwo);
+  /* Full height */
+  height: 100%;
+  /* Center and scaling the image */
+  background-position: center;
+  background-repeat: no-repeat repeat;
+  background-size: cover;
+}
+
+.center {
+  margin: auto;
+  margin-top: 200px;
+}
+
+#header {
+  font-family: 'Righteous', sans-serif;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: 'Righteous', sans-serif;
+}
+
+.book-list {
+  margin-top: 50px;
+  visibility: hidden;
+}
