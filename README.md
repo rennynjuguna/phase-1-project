@@ -1,5 +1,5 @@
 # Book Finder App
-Book Finder is a simple application that allows users to search for books by title, author, or ISBN. The app retrieves book information from a third-party API and displays the results in a user-friendly interface.
+Book Finder is a simple application that allows users to search for books by its title. The app retrieves book information from a third-party API and displays the results in a user-friendly interface.
 
 # Features
 Search for books by book name
