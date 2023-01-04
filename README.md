@@ -19,7 +19,7 @@ HTML
 CSS
 JavaScript
 
-#Deployment
+# About 
 The project is currently deployed at: 
 https://rennynjuguna.github.io/phase-1-project/
 
